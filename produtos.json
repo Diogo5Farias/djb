@@ -1,0 +1,24 @@
+[{
+        "id": "1",
+        "nome": "Fulltec Adjuvant",
+        "descricao": "The most complete adjuvant on the market",
+        "imagem": "./img/produtos/produto1.png"
+    },
+    {
+        "id": "2",
+        "nome": "Fulltec Oil",
+        "descricao": "Premium Vegetable Oil for tough tasks",
+        "imagem": "./img/produtos/produto2.png"
+    },
+    {
+        "id": "3",
+        "nome": "Fulltec Plus Foliar",
+        "descricao": "Phyto-stimulant & nutrition that avoids chemical phytotoxicity",
+        "imagem": "./img/produtos/produto3.png"
+    },
+    {
+        "id": "4",
+        "nome": "Fulltec Cube",
+        "descricao": "The protection your crops deserve",
+        "imagem": "./img/produtos/produto4.png"
+    }]
